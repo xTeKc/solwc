@@ -1,2 +1,2 @@
 # solwc
-Solana Wallet Connect smart contract.
+Solana Wallet Connect.
